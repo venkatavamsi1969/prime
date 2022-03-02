@@ -1,2 +1,2 @@
 # prime
-prime
+prime number or not
